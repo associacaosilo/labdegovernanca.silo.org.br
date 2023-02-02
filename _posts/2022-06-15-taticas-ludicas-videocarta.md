@@ -1,5 +1,5 @@
 ---
-title: Videocarta: una correspondencia sobre el entorno
+title: "Videocarta: una correspondencia sobre el entorno"
 cover: media/images/taticas-ludicas/videocarta1.jpg
 noheader: false
 category: taticas-ludicas

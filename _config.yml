@@ -1,0 +1,44 @@
+# Site
+title: 'Laboratório de Experimentação e Inovação em Governança'
+subtitle: 'Edição 2022'
+
+# URL
+url: https://labdegovernanca.silo.org.br
+baseurl: ''
+silo_url: https://silo.org.br
+permalink: :categories/:title/
+include: ['_pages']
+
+# Build settings
+markdown: kramdown
+port: 9666
+future: false
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "post"
+
+# Data
+social:
+  facebook: "https://www.facebook.com/silo.arte.latitude.rural"
+  instagram: "https://www.instagram.com/silo.arte.e.latitude.rural"
+  github: "https://github.com/associacaosilo"
+  twitter: "https://twitter.com/SiloLatitude"
+  youtube: ""
+  vimeo: ""
+  soundcloud: ""
+  tumblr: ""
+  pinterest: ""
+  envelope-o: "mailto:interactivos@silo.org.br"
+  twitter_user: "SiloLatitude"

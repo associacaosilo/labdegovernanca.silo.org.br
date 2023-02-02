@@ -1,0 +1,15 @@
+{% case page.category %}
+  {% when 'acolhida-na-colonia' %}{% assign title = "ACOLHIDA NA COLÔNIA" %}
+  {% when 'floristic' %}{% assign title = "FLORISTIC" %}
+  {% when 'jardim-ecopedagogico' %}{% assign title = "JARDIM ECOPEDAGÓGICO AGROFLORESTAL" %}
+  {% when 'justica-climatica' %}{% assign title = "GOVERNANÇA PARA JUSTIÇA CLIMÁTICA" %}
+  {% when 'processos-somaticos' %}{% assign title = "PROCESSOS SOMÁTICOS DE GOVERNANÇA" %}
+  {% when 'rede-iberoamericana' %}{% assign title = "REDE IBEROAMERICANA DE GOVERNANÇA" %}
+  {% when 'taticas-ludicas' %}{% assign title = "TÁTICAS LÚDICAS" %}
+{% endcase %}
+
+<section class="list-wrapper breadcrumbs-container">
+  <a href="{{ site.baseurl }}/" class="breadcrumb-item">HOME</a> >
+  <a href=".." class="breadcrumb-item">{{ title }}</a> >
+  <span class="breadcrumb-item breadcrumb-selected">{{ page.title }}</span>
+</section>

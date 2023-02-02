@@ -1,0 +1,9 @@
+---
+title: Sobre la Red… Sobre nosotras
+cover: media/images/rede-iberoamericana/sobre1.jpg
+noheader: false
+category: rede-iberoamericana
+swipebox: 
+---
+
+La propuesta comienza con el nombre “Plataforma Latinoamericana de Gobernanza”, una propuesta que nace desde un colectivo feminista emergente que reconoce la necesidad de poder conectar con otras activistas, colectivas, y organizaciones que tienen como fin el buen vivir. La propuesta al ser seleccionada para participar en el Lab de Gobernanza,  se transforma en una propuesta de documentación y registro de experiencias, que pueda utilizarse como referencia de proyectos y colectivos emergentes. Sin embargo, en el primer día de trabajo queda definido que la propuesta no es ajena a los colaboradores, que la propuesta no requiere de colaboración sino de co creadores de una iniciativa. Surge una reformulación del proyecto, de las necesidades y de la propia problemática que se quiere abordar, la plataforma se encuentra con un reto aún más esencial, como equipo nos preguntamos ¿Qué es gobernanza?, y ¿Cuáles son los límites de la gobernanza que se quieren abordar?, ¿Autogobernanza, Gobernanza corporativa? Entonces, el término de gobernanza comunitaria nos define, como el tipo de gobernanza que nos compete, pero, en la búsqueda de definiciones, límites y alcances, reconocemos que una plataforma, entendida como virtual o análoga, no es el medio para lograr el objetivo que hemos planteado, la promoción de saberes mediante la educación popular y laboratorios participativos; así que nos renombramos hasta encontrar la palabra que se adecue a la identidad del proyecto, llegamos a Red, junto con nuestro lema “Tejiendo autonomías para el buen vivir”, porque queremos enlazar experiencias, tejer diálogos y crear espacios para el aprendizaje colectivo.

@@ -1,0 +1,12 @@
+---
+title: A germinação 
+cover: media/images/jardim-ecopedagogico/germinacao1.jpeg
+noheader: false
+category: jardim-ecopedagogico
+swipebox: 
+---
+
+O projeto Jardim Ecopedagógico Agroflorestal foi selecionado entre projetos de toda a América Latina para o laboratório de Governança da SILO Escola de Arte e Latitude Rural, na Área de Proteção Ambiental (APA) Serrinha do Alambari, região sudeste do Estado do Rio de Janeiro. O encontro, com duração de 14 dias, contou com pesquisadores, cientistas, acadêmicos, educadores e artistas de diferentes regiões do Brasil e países como México, Espanha, Colômbia e Argentina. 
+O Jardim, idealizado pela equipe gestora do Centro Municipal de Educação Profissional (CEMEP), foi pensado como forma de aproveitar o espaço disponível da Escola Municipal Nossa Senhora das Mercês para o estabelecimento de trocas sociais, culturais, artísticas e ecológicas. Guiados pelo tema “governança”, conectamos a história de vida de uma das matriarcas do Quilombo da Ilha das Mercês, a Dona Madá, ao tema norteador do laboratório. 
+Através do cultivo e da valorização da memória, história e cultura desse povo, jovens lideranças podem surgir. Nesse sentido, o Jardim Ecopedagógico Agroflorestal nasce não apenas como um projeto com potencial inovador, mas indispensável no resgate de laços entre os quilombolas, já que o comprometimento de suas formas de subsistência criou uma relação de conflito entre os mesmos. Sobretudo, a proposta materializa conceitos e reflexões de teóricos prestigiados deste século, como Conceição Evaristo, Grada Kilomba, Anísio Teixeira, bell hooks, Ailton Krenak, Davi Kopenawa Yanomami, entre outros pensadores e ativistas que corajosamente combatem o racismo e inspiram a luta pelos direitos humanos e a preservação ambiental.
+As sementes que serão plantadas no Jardim da escola podem gerar colheitas que vão muito além das hortaliças. Preparar o solo é uma abertura para a ancestralidade. Selecionar sementes é usar os aprendizados de ontem para fortalecer o amanhã. Plantar é o momento em que a comunidade usa sua força para se unir. E a colheita é a garantia da sobrevivência do patrimônio material e imaterial: a vida do povo do mangue. Partindo do conhecimento da própria história, narrada em uma cartilha pedagógica criada por meio do processo de interlocução (remoto) com a Dona Madá e dos estudos do sociólogo e gestor do CEMEP, Erick Bernardo, o espaço é criado e transformado a partir dos seus principais agentes: a comunidade local. 

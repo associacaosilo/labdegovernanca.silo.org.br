@@ -10,6 +10,7 @@
       {% include title.html %}
       <section class="content-text">{{ content }}</section>
       <section class="list-wrapper">
+        <h2>PROJETOS</h2>
         <div class="home-list">
           {% assign projets = site.pages | where:"layout", "list" | sort: "ordem" %}
           {% for projet in projets %}

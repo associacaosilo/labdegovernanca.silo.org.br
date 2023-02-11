@@ -19,10 +19,11 @@
         {% endif %}
       </section>
       <section class="list-wrapper">
-        <h2>Posts</h2>
+      {% assign slug = page.permalink | replace: '/', '' %}
+      {% assign posts = site.posts | where:"category", slug %}
+          
+        {% if posts != empty %}<h2>Posts</h2>{% endif %}
         <div class="post-list">
-          {% assign slug = page.permalink | replace: '/', '' %}
-          {% assign posts = site.posts | where:"category", slug %}
           {% for post in posts %}
             {% assign pCover = site.baseurl | append: '/' | append: post.cover %}
             <a class="list-item" href="{{ site.baseurl }}{{ post.url }}">
@@ -39,8 +40,14 @@
         <ul class="people-list">
           {% for person in page.people %}
             <li class="project-person">
-              <a href="{{ person.url }}" target="_blank">{{ person.name }}</a>
+              {% if person.url %}
+                <a href="{{ person.url }}" target="_blank">{{ person.name }}</a>
+              {% else %}
+                {{ person.name }}
+              {% endif %}
             </li>
+            
+            
           {% endfor %}
         </ul>
         {% include share.html %}

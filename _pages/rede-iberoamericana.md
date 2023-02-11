@@ -7,13 +7,13 @@ cover: media/images/covers/rede-iberoamericana.jpg
 permalink: /rede-iberoamericana/
 people:
   - name: Marcela Mattos
-    url:
+    url: https://www.instagram.com/amarcelamattos/
   - name: Lilian Roizman
-    url:
+    url: https://www.instagram.com/liloroizman/
   - name: Jacqueline Aguila
-    url:
+    url: mailto://redigovcom@gmail.com
   - name: Fabiola Melca 
-    url:
+    url: https://www.instagram.com/quintalmobile/
 
 ---
 
@@ -31,5 +31,10 @@ A Rede Ibero-Americana de Governança Comunitária estrutura seu projeto de pesq
 <br>
 # Links externos
 
+### Material desenvolvido durante o Lab de Governança:
+* [Relatoria Primeiro Encontro (PDF)](/media/docs/rede-iberoamericana/RELATORIA_PRIMEIRO_ENCONTRO.pdf){:target="_blank"}
+* [Processos (PDF - Google Drive)](https://drive.google.com/file/d/1fOXdG8fGHZzuxXpihFhe0WcWOU5k8bns/view?usp=share_link){:target="_blank"}
+
+### Contato: 
 * [E-mail de contato](mailto://redigovcom@gmail.com){:target="_blank"}
 * [Links](https://iberoamericacomum.hotglue.me/){:target="_blank"}

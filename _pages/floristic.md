@@ -9,16 +9,15 @@ people:
   - name: Floristic
     url: https://floristic.notion.site/Floristic-82e32386ee20404ca6c9828ff7800732
   - name: Pedro Parrachia
-    url:  
+    url: https://www.instagram.com/parrachia/
   - name: Mariana Cantini
-    url:
+    url: https://www.instagram.com/marianacantini/
   - name: Talissa Monteiro
-    url:
+    url: https://www.instagram.com/talissamonteiro/
   - name: Rodrigo Mousinho
     url:
   - name: Vitória Barenco
-    url:
-
+    url: https://www.instagram.com/vitoriabarenco/
 ---
 
 A Floristic contribuiu no Laboratório de Experimentação e Inovação em Governança com experimentações entre aprender, cooperar e sonhar junto, voltadas, em especial, para cooperativas experimentais de regeneração socioambiental. O projeto é um experimento aberto, iniciado em fevereiro de 2022, que visa se tornar um bem público digital para o fomento de governanças orientadas à aprendizagem. O primeiro módulo do projeto é o jardim digital, um repositório vivo de conhecimento orientado a aprendizagens práticas e colaborativas.

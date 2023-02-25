@@ -32,8 +32,8 @@ A Rede Ibero-Americana de Governança Comunitária estrutura seu projeto de pesq
 # Links externos
 
 ### Material desenvolvido durante o Lab de Governança:
-* [Relatoria Primeiro Encontro (PDF)](/media/docs/rede-iberoamericana/RELATORIA_PRIMEIRO_ENCONTRO.pdf){:target="_blank"}
-* [Processos (PDF - Google Drive)](https://drive.google.com/file/d/1fOXdG8fGHZzuxXpihFhe0WcWOU5k8bns/view?usp=share_link){:target="_blank"}
+* [Relatoria do 1º Encontro da Rede Ibero-Americana de Governança Comunitária (PDF)](/media/docs/rede-iberoamericana/RELATORIA_PRIMEIRO_ENCONTRO.pdf){:target="_blank"}
+* [Desenhos e Esquemas (PDF - Google Drive)](https://drive.google.com/file/d/1fOXdG8fGHZzuxXpihFhe0WcWOU5k8bns/view?usp=share_link){:target="_blank"}
 
 ### Contato: 
 * [E-mail de contato](mailto://redigovcom@gmail.com){:target="_blank"}

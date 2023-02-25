@@ -17,7 +17,9 @@ people:
   - name: Marina Belintani
     url:  https://www.instagram.com/mabe_estudio/
   - name: Matheus Facioli Sampaio
-    url: https://www.instagram.com/matheusfaciolii/ 
+    url: https://www.instagram.com/matheusfaciolii/
+  - name: Joanna Marcon
+    url: 
 ---
 
 A Associação de Agroturismo Acolhida na Colônia localizada em Santa Catarina é uma organização de agricultores familiares constituída em 1999, com o objetivo de fortalecer a agricultura familiar através do agroturismo ecológico e da agroecologia. Dentre os princípios da organização destacam-se o trabalho em rede, o fortalecimento das relações entre o rural e o urbano e a preservação ambiental. Os resultados positivos alcançados nesses mais de 20 anos de existência, tem revertido o processo de êxodo rural, possibilitado o empoderamento das mulheres do campo, gerado renda e muitos prêmios para a associação. Entretanto, a pandemia promoveu mudanças na vida dos agricultores, fragilizando o trabalho em rede na medida que os encontros presenciais entre os associados foram suspensos, e as reuniões para tomadas de decisão e compartilhamento de experiências passaram a ser virtuais. A dificuldade de acesso à internet e uso de ferramentas digitais, desmobilizou a participação dos integrantes na vida associativa, resultando inclusive no desânimo e desistência de algumas famílias. Hoje a reflexão da Acolhida na Colônia verte sobre a necessidade de reformular a estrutura organizacional da Acolhida na Colônia através de novas ferramentas e metodologias que fortaleçam a vida associativa. 

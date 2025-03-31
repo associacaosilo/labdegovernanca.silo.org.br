@@ -25,5 +25,5 @@ A Floristic contribuiu no Laboratório de Experimentação e Inovação em Gover
 <br>
 # Links externos
  
-* [Jardim de Imaginários: Manual do Jogo (Notion)](https://floristic.notion.site/Jardim-de-Imagin-rios-Manual-do-Jogo-98c84231e17d42fcad55c2e123c07641){:target="_blank"}
-* [Contato (Commotion)](https://commotion.page/view/yv3RnEFEYo5ZP9J4mGqt){:target="_blank"}
+* [Jardim de Imaginários: Manual do Jogo (Notion)](https://floristic.notion.site/Jardim-de-Imagin-rios-Manual-do-Jogo-acf998b850744adfad4a01add30c9eca){:target="_blank"}
+* [Contato (Commotion)](https://floristic.xyz/floristic/Floristic-e48c05a04cc44384823053fb6ec06929){:target="_blank"}
